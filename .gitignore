@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+api-tests/junit.xml
+api-tests/test-report.html
+.prettierrc
